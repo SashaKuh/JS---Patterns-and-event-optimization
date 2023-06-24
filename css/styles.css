@@ -43,15 +43,6 @@
 }
 
 .gallery__link:hover {
-  cursor: zoom-in;
+  cursor: copy;
 }
 
-/*? New */
-
-/* .galleryImg {
-  max-width: 100%;
-  border-radius: 10px;
-  position: relative;
-  transition: transform 250ms;
-  cursor: pointer;
-} */
